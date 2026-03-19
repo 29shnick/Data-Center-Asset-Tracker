@@ -1,0 +1,50 @@
+[
+    {
+        "server_id": "SRV-001",
+        "ip_address": "192.168.1.50",
+        "ip_is_valid": true,
+        "status": "Online",
+        "location": "Rack A1",
+        "requires_attention": false
+    },
+    {
+        "server_id": "SRV-002",
+        "ip_address": null,
+        "ip_is_valid": false,
+        "status": "Offline",
+        "location": "Rack A2",
+        "requires_attention": true
+    },
+    {
+        "server_id": "SRV-003",
+        "ip_address": "172.16.0.15",
+        "ip_is_valid": true,
+        "status": "Critical",
+        "location": "Rack B1",
+        "requires_attention": true
+    },
+    {
+        "server_id": "SRV-004",
+        "ip_address": null,
+        "ip_is_valid": false,
+        "status": "Maintenance",
+        "location": "Rack B2",
+        "requires_attention": false
+    },
+    {
+        "server_id": "SRV-005",
+        "ip_address": "10.10.10.10",
+        "ip_is_valid": true,
+        "status": "Online",
+        "location": "Rack C1",
+        "requires_attention": false
+    },
+    {
+        "server_id": "SRV-006",
+        "ip_address": "2001:db8:85a3::8a2e:370:7334",
+        "ip_is_valid": true,
+        "status": "Offline",
+        "location": "Rack C2",
+        "requires_attention": true
+    }
+]

@@ -1,0 +1,7 @@
+Server_ID,Raw_IP_Address,Current_Status,Physical_Location
+SRV-001, 192.168.1.50 , Online, Rack A1
+SRV-002, 10.0.0.999, OFFLINE , Rack A2
+SRV-003, 172.16.0.15, critical, Rack B1
+SRV-004, not-an-ip, Maintenance, Rack B2
+SRV-005, 10.10.10.10, online, Rack C1
+SRV-006,  2001:0db8:85a3:0000:0000:8a2e:0370:7334  , Offline, Rack C2
