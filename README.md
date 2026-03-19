@@ -13,4 +13,4 @@ This Python-based utility is designed for enterprise infrastructure management. 
 * Data Cleaning & Normalization
 * Python Standard Library (`json`, `csv`, `ipaddress`, `logging`)
 * Professional Version Control (Git/GitHub)
-[alt text](image-url)
+[alt text]([image-ur](https://github.com/29shnick/Data-Center-Asset-Tracker/blob/master/IMG_2321.jpeg)l)
