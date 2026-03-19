@@ -14,3 +14,5 @@ This Python-based utility is designed for enterprise infrastructure management. 
 * Python Standard Library (`json`, `csv`, `ipaddress`, `logging`)
 * Professional Version Control (Git/GitHub)
   !(https://github.com/29shnick/Data-Center-Asset-Tracker/blob/master/IMG_2321.jpeg?raw=true)
+!(https://raw.githubusercontent.com/29shnick/Data-Center-Asset-Tracker/refs/heads/master/IMG_2319.jpeg)
+!(https://raw.githubusercontent.com/29shnick/Data-Center-Asset-Tracker/refs/heads/master/IMG_2319.jpeg)
